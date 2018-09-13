@@ -14,7 +14,7 @@ test xml server for phonebook &amp; xml push for digium phones A series
 
 ### phonebook
 
-- open http://localhost:3000/phonebook in browser
+- open http://<your_ip>:3000/phonebook in browser, check phonebook
 
 - set url above to Cloud Phonebook settings at Digium phones A20, A22, A25, A30
 
@@ -22,4 +22,4 @@ test xml server for phonebook &amp; xml push for digium phones A series
 
 - see index.js
 
-- check server & phone ip addresses, restart and open http://localhost:3000/push
+- check server & phone ip addresses, restart and open http://<your_ip>:3000/push

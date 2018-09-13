@@ -29,7 +29,7 @@ app.get('/push', (req, res) => {
       'Host': phone,
       'Connection': 'Keep-Alive',
       'Content-Type': 'text/xml',
-      'Content-Length': t.length,
+      'Content-Length': xml.length,
     }
   })
   .then(result => console.log(result))
