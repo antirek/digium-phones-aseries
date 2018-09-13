@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DigiumIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Manager 1</Name>
+    <Telephone>110</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Manager 2</Name>
+    <Telephone>120</Telephone>
+  </DirectoryEntry>
+</DigiumIPPhoneDirectory>
